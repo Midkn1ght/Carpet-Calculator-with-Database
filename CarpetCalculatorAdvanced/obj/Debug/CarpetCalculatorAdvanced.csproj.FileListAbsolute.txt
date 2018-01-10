@@ -1,0 +1,28 @@
+c:\users\s304-tea\documents\visual studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\bin\Debug\CarpetCalculatorAdvanced.exe.config
+c:\users\s304-tea\documents\visual studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\bin\Debug\CarpetCalculatorAdvanced.exe
+c:\users\s304-tea\documents\visual studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\bin\Debug\CarpetCalculatorAdvanced.pdb
+c:\users\s304-tea\documents\visual studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.csprojResolveAssemblyReference.cache
+c:\users\s304-tea\documents\visual studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.FrmMain.resources
+c:\users\s304-tea\documents\visual studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.FrmAddCarpet.resources
+c:\users\s304-tea\documents\visual studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.FrmAddRoom.resources
+c:\users\s304-tea\documents\visual studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.FrmCalculateCost.resources
+c:\users\s304-tea\documents\visual studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.Properties.Resources.resources
+c:\users\s304-tea\documents\visual studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.csproj.GenerateResource.Cache
+c:\users\s304-tea\documents\visual studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.exe
+c:\users\s304-tea\documents\visual studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.pdb
+C:\Users\Brandon Boatman\Documents\Visual Studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\bin\Debug\CarpetCalculatorAdvanced.exe.config
+C:\Users\Brandon Boatman\Documents\Visual Studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.exe
+C:\Users\Brandon Boatman\Documents\Visual Studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.pdb
+F:\Users\Brandon Boatman\Documents\Visual Studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\bin\Debug\CarpetCalculatorAdvanced.exe.config
+F:\Users\Brandon Boatman\Documents\Visual Studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\bin\Debug\CarpetCalculatorAdvanced.exe
+F:\Users\Brandon Boatman\Documents\Visual Studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\bin\Debug\CarpetCalculatorAdvanced.pdb
+F:\Users\Brandon Boatman\Documents\Visual Studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.csprojResolveAssemblyReference.cache
+F:\Users\Brandon Boatman\Documents\Visual Studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.FrmMain.resources
+F:\Users\Brandon Boatman\Documents\Visual Studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.FrmAddCarpet.resources
+F:\Users\Brandon Boatman\Documents\Visual Studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.FrmAddRoom.resources
+F:\Users\Brandon Boatman\Documents\Visual Studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.FrmCalculateCost.resources
+F:\Users\Brandon Boatman\Documents\Visual Studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.Properties.Resources.resources
+F:\Users\Brandon Boatman\Documents\Visual Studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.csproj.GenerateResource.Cache
+F:\Users\Brandon Boatman\Documents\Visual Studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.csproj.CoreCompileInputs.cache
+F:\Users\Brandon Boatman\Documents\Visual Studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.exe
+F:\Users\Brandon Boatman\Documents\Visual Studio 2012\Projects\CarpetCalculatorAdvanced\CarpetCalculatorAdvanced\obj\Debug\CarpetCalculatorAdvanced.pdb
